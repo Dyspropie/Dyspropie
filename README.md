@@ -37,3 +37,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Dyspropie&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Dyspropie&theme=chartreuse-dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dyspropie&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Dyspropie&icon=0&color=0)](https://visitcount.itsvg.in)
